@@ -26,6 +26,9 @@ div ul li {
 .pdTop{
     padding-top: 50px;
 }
+.pdBot{
+    padding-bottom:50px;
+}
 
 .txtMain{
    font-size: 25px;
